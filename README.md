@@ -3,7 +3,7 @@
 
 #### Commandes "Générales"
 
-- Tu codes sur ta branche (karim)
+- Tu codes sur ta branche (master)
 - git status (pour voir les fichiers modifiés)
 - git branch (pour voir la liste des branches)
 - git checkout nomDeLaBranche (pour changer de branche ou en créer une nouvelle)
@@ -13,7 +13,7 @@
 
 - git add -A (ou git add nomDuFichier pour ajouter les fichiers que tu veux commit)
 - git commit -m "description du commit" (pour créer un commit avec les fichiers que tu as add précèdemment)
-- git push origin nomDeLaBranche (pour push tes changements sur github, ex: git push origin karim)
+- git push origin nomDeLaBranche (pour push tes changements sur github, ex: git push origin master)
 
 <br>
 
